@@ -1,0 +1,92 @@
+[
+    {
+        "id": "B001",
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "topic": "Fantasy Adventure",
+        "publisher": "George Allen & Unwin",
+        "year": 1937,
+        "available": true
+    },
+    {
+        "id": "B002",
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt",
+        "topic": "Programming Software Engineering",
+        "publisher": "Prentice Hall",
+        "year": 2008,
+        "available": true
+    },
+    {
+        "id": "B003",
+        "title": "Introduction to Algorithms",
+        "author": "Thomas H. Cormen",
+        "topic": "Computer Science",
+        "publisher": "MIT Press",
+        "year": 2009,
+        "available": true
+    },
+    {
+        "id": "B004",
+        "title": "Design Patterns",
+        "author": "Gang of Four",
+        "topic": "Programming Software Engineering",
+        "publisher": "Addison-Wesley",
+        "year": 2007,
+        "available": true
+    },
+    {
+        "id": "B005",
+        "title": "Structure and Interpretation of Computer Programs",
+        "author": "Harold Abelson",
+        "topic": "Computer Science",
+        "publisher": "MIT Press",
+        "year": 1985,
+        "available": true
+    },
+    {
+        "id": "B006",
+        "title": "The Mythical Man-Month",
+        "author": "Fred Brooks",
+        "topic": "Programming Software Engineering",
+        "publisher": "Addison-Wesley",
+        "year": 1975,
+        "available": true
+    },
+    {
+        "id": "B007",
+        "title": "Code Complete",
+        "author": "Steve McConnell",
+        "topic": "Programming Software Engineering",
+        "publisher": "Microsoft Press",
+        "year": 2004,
+        "available": true
+    },
+    {
+        "id": "B008",
+        "title": "Refactoring",
+        "author": "Martin Fowler",
+        "topic": "Programming Software Engineering",
+        "publisher": "Addison-Wesley",
+        "year": 2000,
+        "available": true
+    },
+    {
+        "id": "B009",
+        "title": "Operating System Concepts",
+        "author": "Abraham Silberschatz",
+        "topic": "Computer Science",
+        "publisher": "Wiley",
+        "year": 2018,
+        "available": true
+    },
+    {
+        "id": "B010",
+        "title": "Computer Networks",
+        "author": "Andrew Tanenbaum",
+        "topic": "Computer Science",
+        "publisher": "Pearson",
+        "year": 2010,
+        "available": true
+    }
+]
